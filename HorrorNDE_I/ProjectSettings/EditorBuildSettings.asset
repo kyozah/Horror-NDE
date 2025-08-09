@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Day1.unity
+    guid: b96ba5b352c96cf43a817047a0d58105
+  - enabled: 1
+    path: Assets/Scenes/Day2.unity
+    guid: 34ab7c7e26686614bb48e7445c720a4e
+  - enabled: 1
+    path: Assets/Scenes/Day3.unity
+    guid: fe89d04ed0badf240bcac4a91bec8353
+  - enabled: 1
+    path: Assets/Scenes/Day4.unity
+    guid: f444e2ae62a12284baa08f373b3d46c8
+  - enabled: 1
+    path: Assets/Scenes/Day5.unity
+    guid: 1fcc7e595a005aa47a34eed72ef76999
+  - enabled: 1
+    path: Assets/Scenes/Day6.unity
+    guid: 11b77621e05dedb429b743041533d609
+  - enabled: 1
+    path: Assets/Scenes/Day7.unity
+    guid: 026529ee64aa2084398c4a74e30f3fd0
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7487329dd44a9f949835772fcc335789
+  - enabled: 1
+    path: Assets/Scenes/BadEnding.unity
+    guid: a92d67c3a34571b469684f100ce8292f
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Load.unity
+    guid: ca2447d0e687ab84d8a00011c7daf388
+  - enabled: 1
+    path: Assets/Scenes/BedRoom.unity
+    guid: bb2dfbeee144c93489c956df8816979e
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 721c65945ce9b9c4aafb3ed2339d891e, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

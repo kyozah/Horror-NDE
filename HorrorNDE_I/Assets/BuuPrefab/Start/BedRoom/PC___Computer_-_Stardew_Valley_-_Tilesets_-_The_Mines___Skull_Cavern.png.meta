@@ -1,0 +1,6260 @@
+fileFormatVersion: 2
+guid: 2cfb84536274c4d4c94d0144cc1ed541
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d0fff74a637b4ba4eb5d0a59f590a
+      internalID: 1784138362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbeb9daae0b8f46bbffb9ea7f93bd4
+      internalID: -551837276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36387b31ccb57bb418711d034feed8f2
+      internalID: -2046763646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc8d34b3058944597b92aa37e5dc74
+      internalID: -2132373769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f562da70a15624085fe2e4a2c9f4aa
+      internalID: -1372378128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a403f9d52b45f554fb1c8b97e9451c66
+      internalID: -2061734435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9fbdfda7bee84688a3c55ae13c456
+      internalID: 873467904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea69f429738e24247a482e5036cde293
+      internalID: -1790914143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15636ca3d781765488c124ced701cb3a
+      internalID: -1826218571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da221062b7291488ecb4496f8d0882
+      internalID: -859292454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d545e3a49e2bad648952a20a1ddfcddc
+      internalID: -994697031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dad8897e19d654a9d726def0bcaf6b
+      internalID: -2016171012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fef1d652cacef7448f7262ed2acb287
+      internalID: -1263831620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d5b9920b565c4ca58df7b7f8248b0
+      internalID: 829198861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb493ae154f3af049bdf61b34922bf13
+      internalID: 1301536264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581fb9ea570c1264195843c44d633a95
+      internalID: 1686606565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0333ea43656f85e41b5602026b95c845
+      internalID: 1653328613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabab5c6517f4ac46b02f389cb0c4d2a
+      internalID: -1298158866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b8b56262547745beb14e6353ed7a1
+      internalID: 1372058286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2465c9905d82c744b447ecafc8aa50e
+      internalID: -1285417047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0373b5d28cbd0340b6ff0101b90e1e5
+      internalID: -1716164748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba1925d0a2a554585c89a6f4040217
+      internalID: 1574884472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23bf12506ee4b44185c754bd331ddc7
+      internalID: 1515234745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96e5b618cbdc34d8bfa937f33dd7df
+      internalID: 1505220675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecddf426fd2cd44baf2476795f1ee7b
+      internalID: -2028362237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d93555cb9f984da0d6e7a0f1bc658
+      internalID: 1486378285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476ea29d2dc381b4891e64addb4d994c
+      internalID: -1764518061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d53a8140937d746a5bf6fd89ef7abf
+      internalID: 259745550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ea48e0e61be041a4db56751da6edd
+      internalID: 1714936545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36e28c8cc85a344f9c76f4d5bffa42f
+      internalID: 1173806672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c1e4948aac57342a1348b71063d53b
+      internalID: -925374773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc5de676ca29fa4fb7ceb541a5c6a5f
+      internalID: 2068613410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2360928e427e04a95f04d37a1861a1
+      internalID: -182580613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95625e665e257a64298ef75f233de857
+      internalID: 1044405112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5532c9ed6630fa341802dbbbfdbd09ee
+      internalID: 1404074269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e496f34077b9b48a7b513a29a81c36
+      internalID: 568947576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb41d4c45425504aa55917f09ee579c
+      internalID: 252300668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fbc6413fbf1754c8df565c16342054
+      internalID: -68293677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58506500ab4198d4b9628cc9471b4558
+      internalID: -275945184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d81f913fbbaed240879c60601688fbb
+      internalID: -1074832542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c2c0ba5ff760c43846823a756b2c33
+      internalID: 975530864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4af13a86c3da54fbb65ec179bab7fc
+      internalID: -288594684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85301d5dc5194b24798abd9278a53ff2
+      internalID: 641434208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feed852b004c429489916b6509b64b69
+      internalID: 1745247171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705a5c58099b43047ae092adad7dc80b
+      internalID: -1972477934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a49e07507011e4fa8fd34847906d95
+      internalID: 656066676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be72e234dfbcef4d9002bcc7104d99a
+      internalID: -1667655945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da68bc09d57ab46abf4dd0930ad982
+      internalID: 1756820791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afb0821f37d1345ab83e094f7c1955
+      internalID: 825225762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dbf644025730e4093219cce0e50719
+      internalID: 91322440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef86f126b76d4342b8f2e93c73a23fe
+      internalID: -517181930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7f5808fd53eb944a1105d51aa32ca7
+      internalID: 1167968228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fab2e71a37a744ea537b289ec36f69
+      internalID: 988614609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5010e62bc294bd84cbfabbb150ba1674
+      internalID: 301270580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177ce7ef1d449943b9166c0e868fb3f
+      internalID: -84328292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48e7e80dfef0a47b85646329ad9430
+      internalID: -1486239936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e4e1858716864d89fec2e01d87641
+      internalID: 619234605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60892ff1cfff708448897bfccf5c82e1
+      internalID: 1350620106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5807590686bad024bae1660dcc2f070b
+      internalID: -1407818518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceeef219c0cbb14d981549241d95894
+      internalID: -1905520476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21718fe0d94a9746a1bc9c2ff6bad81
+      internalID: 2076698989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c56bbbdb000cb645ac70bc816fe913a
+      internalID: -1769305650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca21cbb009e20e46ba1995ff6379ce2
+      internalID: -1914529221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c6787714f46a49a5318538b0ba850
+      internalID: 1715795120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae1f5cb809cb746bdabec202b4aa30
+      internalID: 1852060785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081241e70204fe4babdee862ba2319e
+      internalID: -1769851212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad87d97e73fd502439f702d5d604f7f4
+      internalID: 761710631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a237c450688cc40419b8f8521d4060d4
+      internalID: -2050918832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f5f7079bf80b47880ad3f1a4a3ce0
+      internalID: 634897631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb4e4da025f8844ae211e385cf79b6
+      internalID: -1624934240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b6b8da358b96429e1026c786945d9
+      internalID: 916514814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a5fd5fb3a92a449246cf3d1f53932
+      internalID: -2083641468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1865f56f577654d89100c7d92bb0d6
+      internalID: 353132657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea3eba1ea3cf6f489b1d7ac7fe01c87
+      internalID: 1179064631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b8d94a99ec084d96b3655d3df8cd3
+      internalID: 287013705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd294bfd8a72447b4128053a9810da
+      internalID: 584765890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1f5886fad499d44b4ee0a825d5dee2
+      internalID: -1585154060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a1ffa96dfd95b45b45d2a05216a67c
+      internalID: -1647927834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30f4d6cb03ed96438f2c484c00d6680
+      internalID: -1093028937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b402d2da1b1701f439e83452cdbbf2c1
+      internalID: 282768045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22fb8b619af2c64e8afb2ff24ba4c12
+      internalID: 1248667702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fdd53f08008f4f8b1d5119c33bb97
+      internalID: 908060267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64dc420dd2d05428092960f6337b57
+      internalID: -1905360247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5369cbe1e20f02d40ad7ac1197a86330
+      internalID: -1684474642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8334011d7b56841ace8664ef407110
+      internalID: 15412685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8458dc2a6e8ff554bb785114ca7a83a2
+      internalID: -1393240635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef12aae245a4e143b0681f3fe75999f
+      internalID: 163698148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b2e44233155f0448df385a0dd5f7c4
+      internalID: 1619239657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df5087f27a029e45b02b7edba77ae27
+      internalID: 1392585128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc40372cf911c4486aa9fd1b9519f2
+      internalID: 1483136475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15679a01b3304a04194b725f72073eb3
+      internalID: -771578796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094ff55754265ce40b16ef459b5b2afa
+      internalID: 1752357524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc162299d909ff64e91c74fe1dd64381
+      internalID: -2135274507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b23b40a2114047bcbd92581b196d6
+      internalID: 1516446548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5da0be5e28ae4faa8f6de859f3b6d
+      internalID: -1991846446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c68bd807f649cc4d98430bc9dd9c4a9
+      internalID: -1229821886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fdb3922223d4647960861ebbff65cf
+      internalID: -334161418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348edb681c573c44298f4ad83711e28d
+      internalID: -600804033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08399ba67f45542b6c688fd3ab48be
+      internalID: -89245931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20e3ba5999c91f44be492ac6b004601
+      internalID: 1097920505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479bc21716894144a99e61bbbed762e4
+      internalID: -1335315596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe58b788681ce7442823dbf074d6c644
+      internalID: 915746880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673bf3c9a519354fbb0de4d66e2fe45
+      internalID: -420696244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef6a68fdbe0414eb93f0773dc90955
+      internalID: 168169658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fe24cbd84bf4342ad83d02012a107b
+      internalID: -994311557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6660f26a5032247a9f757cc3ff4c73
+      internalID: 1166719639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acf52f04a7c3d44faf72e86d6a0d41c
+      internalID: -210277916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b91e011f4128142bc5186b93815aa6
+      internalID: 2108893467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30dc7cc2d9122b47b6478fc5cfd349e
+      internalID: 340017518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03b14c8fb5daf4ba7c61a51b32ac12
+      internalID: 696219709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8ae52ff963cd4b8e54b5e05b4e72e
+      internalID: 1395811559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d921bb25728fdf40a14dd37f25a55a7
+      internalID: -487515967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0028b21239bc8a74f8e912d5088d2ef2
+      internalID: -1343186792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96fda71ac483884e993453598c99a9e
+      internalID: 2107988455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd99eca8946ecdb4ca1cbb044f79d2d3
+      internalID: -1831364072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcda069cfdd20174985a1f3e3275ac4e
+      internalID: 1710851944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12488e7449a9d2f408dd67ec0a723793
+      internalID: -869426943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78949314485e19341b57f6cadb3965b5
+      internalID: 1257749319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9768893e0d5efc54c927c24d6e389fbe
+      internalID: 1626723695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a4aa9cdebe0554eb81648f33a908ad
+      internalID: -1033426323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa982259799b6884babeb43fc3a4c5bc
+      internalID: -1336175809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d4970eea1123a4780616ebe5aabc54
+      internalID: 126531771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1549ce750ec16408353ae01a060a25
+      internalID: -1545093128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d325993564018242a5f15a7b683ba51
+      internalID: -1041949242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7559b2897b088f948bfe9efd495d24aa
+      internalID: -616552304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55090092f483c2498e93f5677454bbc
+      internalID: -1970555017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f96915face92104f8d37552aac2826c
+      internalID: 897635205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03754b9c93247684096223119e6a2e0e
+      internalID: 2091104008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d22e2c4a261b449f6ebfebfec381c
+      internalID: 1429714307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956cc023fae57a44c8e9faf0577e935f
+      internalID: -1523109597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d10ed3c24f605459a10016a8fa3f2b
+      internalID: 549932197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d3b75c798d9746b7d4a3a1b927972
+      internalID: -833524307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ab75db3e1d1984389043d1e68aeb9a
+      internalID: -250067250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434754d4001bcda40ade6ae946f12745
+      internalID: 454245120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49be907352ae8419a4d4eef3599f71
+      internalID: 141382377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86de174385018cc40a353c78366a96b4
+      internalID: 1158354131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382afe06a12fc9a4cbb865808345e0ec
+      internalID: -671029415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e7c49e42064a45ac75dd43697e659
+      internalID: 720136810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b512371d4a5747b77050dc905b55e
+      internalID: -1037231949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f48ff41a4fb5a4093a393c0c541eda
+      internalID: 812534857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791926296cb1ca4f98572321acc072a
+      internalID: -851118464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc87a195fc3ffc448396dd212fdb440
+      internalID: -399279062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58ff5f86fb351428d67f3432b54061
+      internalID: 1201797695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032737cbff93f844faaa951301d38eb4
+      internalID: 1715699308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ed67bf6451ae042aea6f1d14913833
+      internalID: 1792727492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f379fd6a2cac24ea384965a8484334
+      internalID: -1658871100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_146
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e1f759a385fac4ba1baf3fa82b1e7f
+      internalID: 1602646789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403a60694b313a340a96598179b1b771
+      internalID: -1100953289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11dae22d48078e418c78b6f7c3455a8
+      internalID: -1204555215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db3c64a404bd44469656b12b6e487f9
+      internalID: -1320856191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834810ce1ee3fa042917614b4f427616
+      internalID: 1151339775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee4bbc4a1c344040b0a9d9019dbeb85
+      internalID: 1151285224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0107199ecd0ccfc468280628b625b9b6
+      internalID: -8809927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f1dfc7f8e4ee4b815e31c5ce1b12d
+      internalID: -1753004593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a5be2cfdb0794d9c79be847b57b0d
+      internalID: -154599174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300608251265ab438878058faf0ac8c
+      internalID: 438130244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f2ec5abc779544ea5ea8f53ea32a84
+      internalID: -1404552817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_157
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d717fd9f171df468ae8d84ef2a61c5
+      internalID: -294361664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acb295535d7e3346877489285bd05e2
+      internalID: 614858544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ff9e76b3bb6854aafb332a27d7cd28
+      internalID: -1760525753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773c6f4461442524eaac7c7f29d38bce
+      internalID: 803633401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_161
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c1585e1d3c4ea45b1c255d95117217
+      internalID: 1904718729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb76e05f95db0541ade330d90072213
+      internalID: 793216932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4816ea6e509819d4797b7af170d18570
+      internalID: -588839195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8314c59536994e8c415daadf37b64
+      internalID: -1409168516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907f96ac6f80c0b47a2d69506337775c
+      internalID: 136330550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4062441dd35da448d15cc659c480e1
+      internalID: -1317089815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca9f99c7d6c3fb44a14b36cadfe7bc7
+      internalID: 1025690739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_168
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710c3b5487672041836f6e3187b3e5a
+      internalID: 727134868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d3b6164be0ba64cbde21f43a0af1f5
+      internalID: 467346300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc64f2c7e536c474d810352817548ddc
+      internalID: -1330677919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3824df85a989dff41afc3b21956726cd
+      internalID: -1737446399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_172
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dc2d01bde28ac45a58e4eeec74e09d
+      internalID: 2046492321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761541784106c546bd6da109e659f80
+      internalID: 1572556893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6878f9ba7587fdc4aa92a30a5cda7a99
+      internalID: 1764636006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3476f4d42f0d140bff0f66b2988c4f
+      internalID: 1563874263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_176
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11b6dc7b8409b74697bd930bd55d46b
+      internalID: 338791084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05e26ffa7cc7944b523a1e6f782d0c
+      internalID: 903855741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_178
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4aafc28e4570d468c3857d6ce07f31
+      internalID: 1010356839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b374d1145122d3548a2fd9c554ceeddf
+      internalID: 641754887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ebec4a61787c48b87a0941ed4ff61
+      internalID: 1411134515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06caf3638826dfa49922df942d11fc8f
+      internalID: -1510463281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b81f67bdbf029049bbaa6de7bd3486a
+      internalID: -944638702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a37a1eb5180bf94f933c56bc2df9e52
+      internalID: 2027612256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604523765c98ce64691bfddfa28b259a
+      internalID: -1676484369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41604c106d6ca458bedf920e767ea8
+      internalID: 1494637876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cef3ff393c87c4c8147c0996fadbc5
+      internalID: -464385538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741caa9e42639149ba40b2187cdd28f
+      internalID: 1391866784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd226cb97aca04e9f65eca77a06bca
+      internalID: -986202141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161a13cafa9c5241acc488c4d3b826b
+      internalID: 1947384126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_190
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a58d107128f334d82c44190e919e10
+      internalID: 2138515872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_191
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7d7a68f68c7a409fdff11de24c56d
+      internalID: 561855827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86114b908fb9ed448ab5622fb02d614a
+      internalID: -1239631757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_193
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4370c611e47e42ab2fb89f646b169
+      internalID: 1714690417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_194
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed4c3bdfaeb017489d3f77fd6ba7ff9
+      internalID: -173595184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a64200232a5ca4e9fbf877503f17c1
+      internalID: -1293747664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_196
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e64ab44c336c8a4ba7a8852ae3affc9
+      internalID: 641849321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6970effa4afe043b8a497f14f519e1
+      internalID: -29799412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52263f4c33e37554e877ff48c7d6a8bc
+      internalID: -77874136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db419a0c6d0c10c4f91b4d46bc703158
+      internalID: 1197239079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d335de92fca1e4f88ffea25979c056
+      internalID: -621992650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de4cb39a00dac4982031afe45a16f4
+      internalID: -1248562721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_202
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7653fd92deead1d4ab09440254616b9a
+      internalID: 2116368081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_203
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70171411b8d70b642abe25eaf6fc3c11
+      internalID: 966826597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_204
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f3561599fad0449d18214c413d572
+      internalID: 1082677104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b260a9c5bfc3a468e09331bbce37a7
+      internalID: -575551699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_206
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fd37ee6625a61428e4ebcf78e7c26c
+      internalID: 2061474384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_207
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a543775f6987f140ba9f38b24110fd0
+      internalID: -516736794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_208
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a614f2ec995c04db47bab511b4131a
+      internalID: -451229735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_209
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ac60140b261a44a7000de53f00e7f
+      internalID: 1571464197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd11bdf410508444b2a4406537e72ff
+      internalID: 582170593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbdd0aa683fb54cae24e04a50c9560
+      internalID: -1687275835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_212
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c038faf03b552a4da95eb5f7d7f6558
+      internalID: -366033575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_213
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61a473772b308445a0bba5253a7040c
+      internalID: 1628480226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740ac18d3bb0bb43af217624eef3408
+      internalID: 763470700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_215
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20a5d15f1919734f82b69853bc97869
+      internalID: 1114257492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72f3f27a626154eb78d1c5b88468e3
+      internalID: 802859193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_217
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6c6bc98f17d424ba47a840591197d4
+      internalID: -222111359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b2a2c55e757744590bf95d237f0d81
+      internalID: 2138035365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_219
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce7e6ef0814e42489e9537400e08b56
+      internalID: -162744958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_220
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6789c14d7b5b4f9639a233dad6ea2
+      internalID: 780338279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_221
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f684bfb54970f34fa0c01b30d30c7f1
+      internalID: 648474975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe82bf269040dc489fb73ed557ce6e1
+      internalID: 1994212209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_223
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50294a985473443abfd1decdfe60cb
+      internalID: -459383285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e2c425fe769b344bc26411c5dde8cb
+      internalID: 820160929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0719052913054fa81a2cc0adc1d73
+      internalID: -845293502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_226
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3695cdece57464f9113a03168e64d0
+      internalID: 2004383757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_227
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4154d5ce09dd3f040a87a81c3ab2c3fa
+      internalID: 1148120695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_228
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2469b4f729bf4e8f7999900913b9e
+      internalID: -1309926021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_229
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6f30d30e3daf4682cf51f76f75f41
+      internalID: -304833683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_230
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f787358742b21447833409e21ae044e
+      internalID: -1490271548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_231
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e88ce064317a4fa32960ac4d9e7ba
+      internalID: 971055968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_232
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f51859ac95e94cbd5b71e794295a9
+      internalID: 1737646663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_233
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e526af29199e64a9ea111f7e71ee26
+      internalID: -1786894792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_234
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaca1280e6262044a08bb63f54c7e72
+      internalID: 1654816932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_235
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ac2c8577c0224d97ede8c90036a99
+      internalID: -1405430029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_236
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49857254aa9424f802301f1d60404f
+      internalID: -2128489953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_237
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d86ec7ea932f342a67f3a74adf43fc
+      internalID: -1272759522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_238
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba04f20d00c40e74899dcf7313513cb2
+      internalID: -1720362098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc877df7d1a1c43bb65d2e98dac50f
+      internalID: -600236159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_240
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55b1d98f3b7df49a19c5eb205fdd62
+      internalID: -502323456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cede4ec76d11d4ebecf4789a6fa0be
+      internalID: 210192333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_242
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a70d926f34418b4ea03aaeb6d8902f7
+      internalID: 713319710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_243
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01d0f8c369ffd549bde0b232fb2f869
+      internalID: 1000785584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_244
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e8a5c5d66d41245830e16696adaca7
+      internalID: -847676243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_245
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4138d2398398c4f96b6814e9f330dd
+      internalID: -1661240870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_246
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8847a580ed1a468afa313ce02d1b4
+      internalID: -1799113396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_247
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff58a7520cfb2499c78c849c408db3
+      internalID: -640729961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_248
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca314b7b85b3a4cadf1d6a853ab4c4
+      internalID: 1268908561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_249
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fabe7637c93f74eb489e981e2dbc7d
+      internalID: 956182718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_250
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0cc939927bd2f43a2e413bbee30b5e
+      internalID: 1912323203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_251
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c125d83aeaabf040898c0cbbb65aa3f
+      internalID: -1852396917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_252
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b6cd25c0e45544aa39378ffca5199
+      internalID: -2022701738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f822aa29ae5db71439d434744ea66c84
+      internalID: -344741974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_254
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb1ee2eb68480044a5cde93772ea306
+      internalID: 529473293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_255
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b24bf0648d7b9499bb3b2fcf65581b
+      internalID: -1847747247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_256
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6770a5c51bd9ca54b87d12a14b750c03
+      internalID: -639103268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_257
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a85dfcef5694439640c2c105095b3
+      internalID: -448172355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_258
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa4b37b73940a4a9302953b27750a8
+      internalID: 373451131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_259
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c9bff324d5e1444a5a69459878f997
+      internalID: 7840480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_260
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a59f47e9d2db4c94bb79850f84e00
+      internalID: 1428154292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_261
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13474e54fe789d545ad2cc6bb750a9a3
+      internalID: -784353800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_262
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b0cd33c3c458499c71a5f1706f1fd
+      internalID: 994471277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_263
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dbe5422eac3fc46a093bb0f39b5e30
+      internalID: -1150198060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_264
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69251b85e1e61f44b623af8a2737dc2
+      internalID: -420803436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_265
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569ecb83d9ff2174bbdbe5945bf7d1c8
+      internalID: -666071426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_266
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b83ce4e1a6e564ba9a5eff6e686a76
+      internalID: -1507725622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b4f11c796e545ed46973bd4b0e5becd6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_0: 1784138362
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_1: -551837276
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_10: -994697031
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_100: -1335315596
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_101: 915746880
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_102: -420696244
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_103: 168169658
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_104: -994311557
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_105: 1166719639
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_106: -210277916
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_107: 2108893467
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_108: 340017518
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_109: 696219709
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_11: -2016171012
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_110: 1395811559
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_111: -487515967
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_112: -1343186792
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_113: 2107988455
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_114: -1831364072
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_115: 1710851944
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_116: -869426943
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_117: 1257749319
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_118: 1626723695
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_119: -1033426323
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_12: -1263831620
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_120: -1336175809
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_121: 126531771
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_122: -1545093128
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_123: -1041949242
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_124: -616552304
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_125: -1970555017
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_126: 897635205
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_127: 2091104008
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_128: 1429714307
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_129: -1523109597
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_13: 829198861
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_130: 549932197
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_131: -833524307
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_132: -250067250
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_133: 454245120
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_134: 141382377
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_135: 1158354131
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_136: -671029415
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_137: 720136810
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_138: -1037231949
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_139: 812534857
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_14: 1301536264
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_140: -851118464
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_141: -399279062
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_142: 1201797695
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_143: 1715699308
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_144: 1792727492
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_145: -1658871100
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_146: 1602646789
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_147: -1100953289
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_148: -1204555215
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_149: -1320856191
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_15: 1686606565
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_150: 1151339775
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_151: 1151285224
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_152: -8809927
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_153: -1753004593
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_154: -154599174
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_155: 438130244
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_156: -1404552817
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_157: -294361664
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_158: 614858544
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_159: -1760525753
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_16: 1653328613
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_160: 803633401
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_161: 1904718729
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_162: 793216932
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_163: -588839195
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_164: -1409168516
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_165: 136330550
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_166: -1317089815
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_167: 1025690739
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_168: 727134868
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_169: 467346300
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_17: -1298158866
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_170: -1330677919
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_171: -1737446399
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_172: 2046492321
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_173: 1572556893
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_174: 1764636006
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_175: 1563874263
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_176: 338791084
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_177: 903855741
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_178: 1010356839
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_179: 641754887
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_18: 1372058286
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_180: 1411134515
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_181: -1510463281
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_182: -944638702
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_183: 2027612256
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_184: -1676484369
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_185: 1494637876
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_186: -464385538
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_187: 1391866784
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_188: -986202141
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_189: 1947384126
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_19: -1285417047
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_190: 2138515872
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_191: 561855827
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_192: -1239631757
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_193: 1714690417
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_194: -173595184
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_195: -1293747664
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_196: 641849321
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_197: -29799412
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_198: -77874136
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_199: 1197239079
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_2: -2046763646
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_20: -1716164748
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_200: -621992650
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_201: -1248562721
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_202: 2116368081
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_203: 966826597
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_204: 1082677104
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_205: -575551699
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_206: 2061474384
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_207: -516736794
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_208: -451229735
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_209: 1571464197
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_21: 1574884472
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_210: 582170593
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_211: -1687275835
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_212: -366033575
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_213: 1628480226
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_214: 763470700
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_215: 1114257492
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_216: 802859193
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_217: -222111359
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_218: 2138035365
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_219: -162744958
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_22: 1515234745
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_220: 780338279
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_221: 648474975
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_222: 1994212209
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_223: -459383285
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_224: 820160929
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_225: -845293502
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_226: 2004383757
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_227: 1148120695
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_228: -1309926021
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_229: -304833683
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_23: 1505220675
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_230: -1490271548
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_231: 971055968
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_232: 1737646663
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_233: -1786894792
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_234: 1654816932
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_235: -1405430029
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_236: -2128489953
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_237: -1272759522
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_238: -1720362098
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_239: -600236159
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_24: -2028362237
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_240: -502323456
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_241: 210192333
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_242: 713319710
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_243: 1000785584
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_244: -847676243
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_245: -1661240870
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_246: -1799113396
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_247: -640729961
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_248: 1268908561
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_249: 956182718
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_25: 1486378285
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_250: 1912323203
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_251: -1852396917
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_252: -2022701738
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_253: -344741974
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_254: 529473293
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_255: -1847747247
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_256: -639103268
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_257: -448172355
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_258: 373451131
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_259: 7840480
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_26: -1764518061
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_260: 1428154292
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_261: -784353800
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_262: 994471277
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_263: -1150198060
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_264: -420803436
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_265: -666071426
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_266: -1507725622
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_27: 259745550
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_28: 1714936545
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_29: 1173806672
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_3: -2132373769
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_30: -925374773
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_31: 2068613410
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_32: -182580613
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_33: 1044405112
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_34: 1404074269
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_35: 568947576
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_36: 252300668
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_37: -68293677
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_38: -275945184
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_39: -1074832542
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_4: -1372378128
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_40: 975530864
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_41: -288594684
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_42: 641434208
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_43: 1745247171
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_44: -1972477934
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_45: 656066676
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_46: -1667655945
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_47: 1756820791
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_48: 825225762
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_49: 91322440
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_5: -2061734435
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_50: -517181930
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_51: 1167968228
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_52: 988614609
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_53: 301270580
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_54: -84328292
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_55: -1486239936
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_56: 619234605
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_57: 1350620106
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_58: -1407818518
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_59: -1905520476
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_6: 873467904
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_60: 2076698989
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_61: -1769305650
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_62: -1914529221
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_63: 1715795120
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_64: 1852060785
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_65: -1769851212
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_66: 761710631
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_67: -2050918832
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_68: 634897631
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_69: -1624934240
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_7: -1790914143
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_70: 916514814
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_71: -2083641468
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_72: 353132657
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_73: 1179064631
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_74: 287013705
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_75: 584765890
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_76: -1585154060
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_77: -1647927834
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_78: -1093028937
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_79: 282768045
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_8: -1826218571
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_80: 1248667702
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_81: 908060267
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_82: -1905360247
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_83: -1684474642
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_84: 15412685
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_85: -1393240635
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_86: 163698148
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_87: 1619239657
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_88: 1392585128
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_89: 1483136475
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_9: -859292454
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_90: -771578796
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_91: 1752357524
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_92: -2135274507
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_93: 1516446548
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_94: -1991846446
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_95: -1229821886
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_96: -334161418
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_97: -600804033
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_98: -89245931
+      PC___Computer_-_Stardew_Valley_-_Tilesets_-_The_Mines___Skull_Cavern_99: 1097920505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
